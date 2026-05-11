@@ -7,7 +7,7 @@
 > [!WARNING]
 > $\textbf{M}_{\Huge{\textbf{e}}}\textbf{nlo}$ is still under heavy development. Many features are still missing, and existing ones will likely be modified.
 
-$\textbf{M}_{\Huge{\textbf{e}}}\textbf{nlo}$ is an ergonomic internal domain-specific language in C++ for use in physics, chemistry and engineering. For more information, you can read the [Wiki](/DanielAmCa/Menlo/wiki)
+$\textbf{M}_{\Huge{\textbf{e}}}\textbf{nlo}$ is an ergonomic internal domain-specific language in C++ for use in physics, chemistry and engineering. For more information, you can read the [Wiki](/DanielAmCa/Menlo/wiki).
 
 ## License
 
