@@ -19,7 +19,7 @@ $\textbf{M}_{\Huge{\textbf{e}}}\textbf{nlo}$ is an ergonomic internal domain-spe
 
 This project is licensed under the [GNU General Public License v3](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text).
 
-# Star History
+## Star History
 
 <a href="https://www.star-history.com/?repos=DanielAmCa%2FMenlo&type=date&legend=top-left">
  <picture>
