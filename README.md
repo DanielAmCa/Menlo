@@ -1,13 +1,13 @@
 <img width="100%" height="auto" alt="header" src="https://github.com/user-attachments/assets/878f1a71-c983-4f86-a0ea-6f6cd265b60a" />
 
-# $\textbf{M}_{\Huge{\textbf{e}}}\textbf{nlo}$
+# Menlo
 
 <p align="center"><i>Powering your Invention Factory.</i></p>
 
 > [!WARNING]
-> $\textbf{M}_{\Huge{\textbf{e}}}\textbf{nlo}$ is still under heavy development. Many features are still missing, and existing ones will likely be modified.
+> Menlo is still under heavy development. Many features are still missing, and existing ones will likely be modified.
 
-$\textbf{M}_{\Huge{\textbf{e}}}\textbf{nlo}$ is an ergonomic internal domain-specific language in C++ for use in physics, chemistry and engineering. For more information, you can read the [Wiki](/DanielAmCa/Menlo/wiki).
+Menlo is an ergonomic internal domain-specific language in C++ for use in physics, chemistry and engineering. For more information, you can read the [Wiki](/DanielAmCa/Menlo/wiki).
 
 ## License
 
