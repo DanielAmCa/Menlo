@@ -1,4 +1,9 @@
-<img width="100%" height="auto" alt="header" src="https://github.com/user-attachments/assets/878f1a71-c983-4f86-a0ea-6f6cd265b60a" />
+<p align="center">
+  <img width="auto" height="200" alt="header" src="https://raw.githubusercontent.com/danielamca/menlo/assets/img/github-social.png" />
+  <br>
+  <a href="http://perso.crans.org/besson/LICENSE.html"><img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat"></a>
+  <a href="/DanielAmCa/Menlo/wiki"><img alt="Static Badge" src="https://img.shields.io/badge/read-wiki-blue?style=flat"></a>
+</p>
 
 # Menlo
 
