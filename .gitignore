@@ -35,6 +35,9 @@
 *.out
 *.app
 
+# clangs Language server
+.clangd
+
 ### CMake ###
 CMakeLists.txt.user
 CMakeCache.txt
