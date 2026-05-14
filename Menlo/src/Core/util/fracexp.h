@@ -68,7 +68,7 @@ class fracexp {
 
         fracexp(int32_t num_, int32_t den_) : num(num_), den(den_) { this->normalize(); };
 
-    public:  // arithmetic
+    public:  // operators
         fracexp &operator+=(const fracexp &rhs) {
             this->num  = this->num * rhs.get_den() + this->den * rhs.get_num();
             this->den *= rhs.get_den();

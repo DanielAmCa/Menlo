@@ -1,11 +1,18 @@
 #ifndef MENLO_CORE_MODULE_H
 #define MENLO_CORE_MODULE_H
 
+#include <algorithm>
 #include <array>
+#include <cstddef>
 #include <cstdint>
 #include <numeric>
 #include <stdexcept>
-#
+
+// clang-format off
+
 #import "./src/Core/util/fracexp.h"
+#import "./src/Core/Dimension.h"
+
+// clang-format on
 
 #endif  // MENLO_CORE_MODULE_H
