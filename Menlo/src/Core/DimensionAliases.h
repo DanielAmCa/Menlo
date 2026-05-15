@@ -1,9 +1,7 @@
 #ifndef MENLO_DIMENSION_ALIASES_H
 #define MENLO_DIMENSION_ALIASES_H
 
-#include "../../Core"
 #include "./InternalHeaderCheck.h"
-#include "Dimension.h"
 
 namespace Menlo::Dimensions {
 

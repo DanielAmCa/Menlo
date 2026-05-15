@@ -12,6 +12,7 @@
 
 #import "./src/Core/util/fracexp.h"
 #import "./src/Core/Dimension.h"
+#import "./src/Core/DimensionAliases.h"
 
 // clang-format on
 
